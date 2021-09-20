@@ -5,6 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /*display: grid;*/
+  /*grid-template-columns: 1fr 1fr 1fr;*/
+  /*grid-template-rows: 20px 20px;*/
+}
+
+#email {
+  font-family: "Courier New";
 }
 
 code {
